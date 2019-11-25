@@ -1,0 +1,3 @@
+Edward Kmett <ekmett@example.com>
+Simon Peyton Jones <spj@example.com>
+Michael Snoyman <snoyberg@example.com>
