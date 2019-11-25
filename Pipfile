@@ -11,7 +11,7 @@ flask-sqlalchemy = "*"
 flask-marshmallow = "*"
 marshmallow-sqlalchemy = "*"
 pytest = "*"
-dateutil = "*"
+python-dateutil = "*"
 
 [requires]
 python_version = "3.7"
